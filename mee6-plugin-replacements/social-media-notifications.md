@@ -11,3 +11,9 @@ _Price: $0_
 
 Pingcord takes a very similar, yet automatic approach to notifications as MonitoRSS does, and allows you to add TikTok, Instagram, YouTube, Twitch, Reddit, Facebook & Twitter notifications to your server. Where it lacks though is in its premium locked Spotify notification service and the 'coming soon' nature of custom RSS feeds, which is what MonitoRSS is perfect for. It is still however an easy-to-use notification tool for those who just want to be pinged and aren't too bothered about how it looks.\
 _Price: $0_&#x20;
+
+### Social Media Notifications - [Sapphire](sapph.xyz)
+
+Sapphire in addition to it's many other features also has a social notifications feature. It works with YouTube, Twitch and TikTok. 
+
+_Price: $0 unless you want custom branding for the bot_

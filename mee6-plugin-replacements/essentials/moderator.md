@@ -47,3 +47,13 @@ If you're thinking of using Zeppelin for a smaller server, you can always self-h
 💵 Zeppelin used to have an optional Patreon but has since been discontinued.
 
 {% embed url="https://zeppelin.gg" %}
+
+### 🔍 Alternative 5: collony.ai
+
+collony.ai is a different animal from everything above: instead of keyword filters and AutoMod-style rules, it uses AI to read the intent of every message. In practice that means it catches the stuff pattern-matching fundamentally can't, like crypto scams phrased in new ways, phishing links behind shorteners, and "support team" impersonators DMing your members. It also works on Telegram with the same setup, which none of the other alternatives do, so if your community spans both platforms it covers them from one dashboard.
+
+The honest caveats: it's a paid service aimed at communities that face actual bad actors (crypto and trading servers, large public communities). If your problem is the occasional spammer, Discord's own AutoMod plus Sapphire will serve you fine for free, and collony would be overkill. It's also not an all-in-one bot, so no levels, music, or reaction roles, it does moderation and community analytics only.
+
+💵 From $49 per Month with a free trial. One tier, every feature included, no per-feature paywall shenanigans of the MEE6 variety.
+
+{% embed url="https://www.collony.ai/" %}
